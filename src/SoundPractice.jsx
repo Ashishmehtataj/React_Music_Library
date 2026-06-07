@@ -16,7 +16,7 @@ function SoundPractice() {
             </div>
             <div className="flex justify-center items-center">
                 <button className="text-2xl gap-4 m-6 font-bold border-2 rounded-2xl h-20 w-60 border-amber-400 uppercase" onClick={() => {
-                    sound.play(); changebg("blue");
+                    sound.play(); changebg("yellow");
                 }}>Play Sound</button>
 
             </div>
